@@ -1340,6 +1340,42 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "35",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png"
+      },
+      "id": 151
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "35",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png"
+      },
+      "id": 152
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "35",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png"
+      },
+      "id": 153
+    },
+    {
+      "name": "bulbasaur",
+      "hp": "35",
+      "sprites": {
+        "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png"
+      },
+      "id": 154
     }
   ]
 }
